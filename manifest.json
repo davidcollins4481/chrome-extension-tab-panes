@@ -1,0 +1,6 @@
+  {
+    "name": "Tab Panes",
+    "version": "1.0",
+    "description": "Have multiple browser panes in a single tab",
+    "manifest_version": 2
+  }
